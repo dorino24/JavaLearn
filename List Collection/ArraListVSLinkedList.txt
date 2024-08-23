@@ -1,0 +1,5 @@
+ArrayList  : faster when retrieving element
+
+No Different : Operations from the end of list  
+
+LinkedList : faster adding/removing element from middle
