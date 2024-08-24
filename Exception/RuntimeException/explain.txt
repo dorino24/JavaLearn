@@ -1,0 +1,6 @@
+Occurs at runtime and is not checked by the compiler
+example:
+- ArrayIndexOutofBoundsException
+- NullPointerException
+- InputMissMatchException
+- IllegalArgumentException

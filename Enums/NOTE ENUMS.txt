@@ -1,0 +1,3 @@
+Recap:
+- Use Enums when a variable is limited to a set of values.
+- It will catch errors in compile-time rather than runtime
