@@ -1,0 +1,24 @@
+Inheritance
+- Define a parent class that serves a foundation for child classes
+- every child class inherits fields/methods from its parent
+
+Polymorphism
+- The ability of an object to take on multiple froms.
+- A child can take the form of its parent.
+
+
+Constructors
+- super() calls the parent constructor to update inherited fields.
+- the child constructor updates the remaining fields.
+
+Overriding 
+- Each child class can overrode a method from its parent.
+- The child class provides its own implementation of a method.
+
+The super keyword
+- super() : invokes the constructor of a parent class.
+- super.member : access a member of the parent class.
+
+abstract
+- abstract class : a class you cannot create objects from.
+- abstract method : exposes behavior that a child must override.
