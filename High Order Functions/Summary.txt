@@ -1,0 +1,5 @@
+The Process High Order Functions :
+1. High Order Functions need to know your intent.
+2. You can express your intent in the form of a lambda expression
+
+Stream Pipeline
