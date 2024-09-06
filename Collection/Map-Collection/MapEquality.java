@@ -32,7 +32,9 @@ public class MapEquality {
         peopleMap.put(new Contact("Noah", 41), "1833 Maloy Court");
 
         System.out.println("\nAlice's address is: " + peopleMap.get(new Contact("Alice", 30)));
-
+        
+        System.out.println(new Contact("Alice", 30));
+        System.out.println(new Contact("Alice", 30));
         System.out.println("\nAdam's address is: " + peopleMap.get(new Contact("Adam", 42)));
 
         System.out.print("\nIs Noah, 41 years of age, in my contacts? ");
