@@ -1,3 +1,6 @@
 static means: belonging to the class so to use method or constant no need to create object
 final means : constant cannot be assigned a new value
 static import is to import the static method in the class
+
+final in method : cannot overriden
+final in class  : cannot inheritance

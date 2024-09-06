@@ -1,9 +1,10 @@
+import java.util.HashMap;
 import java.util.Map;
 
 public class hashMap{
     public static void main(String[] args) {
 
-        Map<String, Double> inventory = new java.util.HashMap<>();
+        Map<String, Double> inventory = new HashMap<>();
         inventory.put("Bananas", 2.99);
         inventory.put("Papaya", 5.99);
         inventory.put("Kale", 4.99);

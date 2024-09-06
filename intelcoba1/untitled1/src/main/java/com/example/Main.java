@@ -1,9 +1,7 @@
+package com.example;
 
 public class Main {
     public static void main(String[] args) {
-
-        Cob a = new Cob("akui",10);
-
-
+        System.out.println("Hello world!");
     }
 }
